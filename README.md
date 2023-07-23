@@ -1,6 +1,6 @@
 # Pneumonia Detection with Artificial Intelligence - README
 
-![Pneumonia Detection](app-logo.png)
+![Pneumonia Detection](ismet-koseoglu/app-logo.png)
 
 ## Abstract
 
@@ -8,7 +8,7 @@ Pneumonia Detection with Artificial Intelligence is a project that employs compl
 
 ## Python Code
 
-The Python code for the project is available in the `pneumonia_full.ipynb` file. The code performs various tasks, including data loading, data preprocessing, data augmentation, model creation, model training, and analysis after model training. The code is implemented using popular libraries such as Keras, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+The Python code for the project is available in the `pneumonia_full.py` file. The code performs various tasks, including data loading, data preprocessing, data augmentation, model creation, model training, and analysis after model training. The code is implemented using popular libraries such as Keras, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
 ## Installation
 
