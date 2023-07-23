@@ -1,6 +1,6 @@
 # Pneumonia Detection with Artificial Intelligence - README
 
-![Şehir Hava Logo](app-logo)
+!(app-logo.png)
 
 ## Abstract
 
