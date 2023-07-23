@@ -17,7 +17,7 @@ To run the Pneumonia Detection with Artificial Intelligence project, follow thes
 1. Clone the repository from GitHub to your local machine:
 
 ```bash
-git clone https://github.com/your_username/Pneumonia-Detection-with-AI.git
+git clone https://github.com/ismetkoseoglu/Pneumonia-Detection-with-AI.git
 ```
 
 2. Open the `pneumonia_full.ipynb` file in a Jupyter Notebook or Google Colab to access and run the Python code.
