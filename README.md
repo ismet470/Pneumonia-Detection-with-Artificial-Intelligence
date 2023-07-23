@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](path/to/LICENSE).
 
 ---
 
-Please make sure to replace `app-logo.png` with the path to your project's logo or relevant image. You can also customize the content, add additional sections, and provide any relevant links to the code repository or other resources. This README provides a basic outline of the project, its goals, and how to run and use it. Happy coding!
+You can customize the content, add additional sections, and provide any relevant links to the code repository or other resources. This README provides a basic outline of the project, its goals, and how to run and use it. Happy coding!
