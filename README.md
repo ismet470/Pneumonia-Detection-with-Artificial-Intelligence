@@ -1,6 +1,6 @@
 # Pneumonia Detection with Artificial Intelligence - README
 
-![Pneumonia Detection](https://github.com/ismet-koseoglu/Pneumonia-Detection-with-AI/app-logo.png)
+![Pneumonia Detection](ismet-koseoglu/Pneumonia-Detection-with-AI/app-logo.png)
 
 ## Abstract
 
